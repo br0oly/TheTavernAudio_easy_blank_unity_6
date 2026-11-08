@@ -5,7 +5,7 @@
 			<value>amb_tavern_talking_loop</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{62ae7c78-1d30-4c7f-9841-1e096e01895a}</destination>
@@ -30,6 +30,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{87db9433-a8ae-4d6b-ae06-bb84b6ef89d8}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{a91867f9-bd7d-4258-84e6-559a0c8ee793}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{d1421f9c-20eb-4eb3-bc5f-69c6d57b3980}">
@@ -136,7 +139,6 @@
 	<object class="MixerBusEffectChain" id="{272c04ac-178a-41eb-9674-5440226d0ba3}">
 		<relationship name="effects">
 			<destination>{a58c9ecb-4ad0-405c-b241-de5961bece30}</destination>
-			<destination>{5cc79ef8-9887-4105-a459-286167450517}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9ca6cd69-686d-49b4-9c47-a6c3dfa29bbc}" />
@@ -156,6 +158,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{4f0c2e64-dc08-49d9-b9cf-16d71e79a14c}" />
 	<object class="MixerBusFader" id="{a58c9ecb-4ad0-405c-b241-de5961bece30}" />
-	<object class="SpatialiserEffect" id="{5cc79ef8-9887-4105-a459-286167450517}" />
 	<object class="MixerBusFader" id="{31c2b479-a840-427e-bc35-67cc3c4baf98}" />
 </objects>
