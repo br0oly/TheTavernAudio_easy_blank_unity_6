@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a8fc172b-9729-4572-a60a-a9384b20f76e}">
+		<property name="assetPath">
+			<value>Ambient/Tavern/amb_loop_tavern_talking.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1788a9dd-80d4-48d8-8a10-0b9353554402}</destination>
+		</relationship>
+	</object>
+</objects>

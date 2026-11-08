@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{06ce0c2b-9180-49b5-9add-d6d958a6d0d5}">
+		<property name="assetPath">
+			<value>Player_Movement/Walking/Wood/oneshoot_8_footsteps_wood.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.6763541666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1788a9dd-80d4-48d8-8a10-0b9353554402}</destination>
+		</relationship>
+	</object>
+</objects>

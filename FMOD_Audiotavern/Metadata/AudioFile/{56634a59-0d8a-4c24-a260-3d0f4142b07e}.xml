@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{56634a59-0d8a-4c24-a260-3d0f4142b07e}">
+		<property name="assetPath">
+			<value>Door/Close/oneshoot_7_door_close.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26287500000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1788a9dd-80d4-48d8-8a10-0b9353554402}</destination>
+		</relationship>
+	</object>
+</objects>

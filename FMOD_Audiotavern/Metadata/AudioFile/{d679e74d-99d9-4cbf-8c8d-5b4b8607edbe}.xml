@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d679e74d-99d9-4cbf-8c8d-5b4b8607edbe}">
+		<property name="assetPath">
+			<value>Player_Movement/Jumping/Stone/oneshoot_3_jump_stone_toreplace.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.42999999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1788a9dd-80d4-48d8-8a10-0b9353554402}</destination>
+		</relationship>
+	</object>
+</objects>
